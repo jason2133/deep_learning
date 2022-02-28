@@ -1,2 +1,2 @@
 ### Reference
-- KAIST AI ()
+- Graduate School of AI, KAIST (ai504)
