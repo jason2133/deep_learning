@@ -27,5 +27,5 @@
 ## Assignment
 |Assignment|Contents|
 |:------:|:-----:|
-|1|PyTorch 101|
+|1|[PyTorch 101](https://github.com/jason2133/deep_learning/tree/master/Assignment%201/final%20version)|
 |2|K-Nearest Neighbors|
