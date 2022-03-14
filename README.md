@@ -3,7 +3,14 @@
 - Deep Learning with PyTorch
 - Lecture by Prof. Jun Song, Department of Statistics, Korea University
 
-## Schedule
+## Lecture
+|Lecture|Contents|
+|:------:|:-----:|
+|0|Syllabus|
+|1|Linear Regression|
+|2|Beyond the Linear Model & Regularization|
+
+## Schedule (at Syllabus)
 |Lecture|Contents|
 |:------:|:-----:|
 |0|Syllabus|
