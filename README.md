@@ -9,6 +9,7 @@
 |0|Syllabus|
 |1|Linear Regression|
 |2|Beyond the Linear Model & Regularization|
+|3|Introduction to Classification|
 
 ## Schedule (at Syllabus)
 |Lecture|Contents|
