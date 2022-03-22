@@ -10,6 +10,7 @@
 |1|Linear Regression|
 |2|Beyond the Linear Model & Regularization|
 |3|Introduction to Classification|
+|4|Support Vector Classifier|
 
 ## Schedule (at Syllabus)
 |Lecture|Contents|
