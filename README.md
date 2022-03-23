@@ -11,8 +11,9 @@
 |2|Beyond the Linear Model & Regularization|
 |3|Introduction to Classification|
 |4|Support Vector Classifier|
+|5|Linear Classifier & Loss Function|
 
-## Schedule (at Syllabus)
+<!-- ## Schedule (at Syllabus)
 |Lecture|Contents|
 |:------:|:-----:|
 |0|Syllabus|
@@ -31,7 +32,7 @@
 |13|Generative Models|
 |14|Topic Class|
 |15|Project Presentation|
-|16|Term Project Report|
+|16|Term Project Report| -->
 
 ## Assignment
 |Assignment|Contents|
