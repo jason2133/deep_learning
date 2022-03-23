@@ -13,12 +13,6 @@
 |4|Support Vector Classifier|
 |5|Linear Classifier & Loss Function|
 
-## Reference
-- [CS231n 중간고사 한국어 풀이](https://shinest-programming.tistory.com/24)
-- [CS231n 중간고사 GitHub](https://github.com/Shinest-changwon/cs231n/tree/master/midterm)
-- [CS231n 2020 Midterm Review](http://cs231n.stanford.edu/slides/2020/section_5_midterm.pdf)
-- [CS231n 2018 Midterm Review](http://cs231n.stanford.edu/slides/2018/cs231n_2018_midterm_review.pdf)
-
 <!-- ## Schedule (at Syllabus)
 |Lecture|Contents|
 |:------:|:-----:|
@@ -45,3 +39,10 @@
 |:------:|:-----:|
 |1|[PyTorch 101](https://github.com/jason2133/deep_learning/tree/master/Assignment%201/final%20version)|
 |2|[K-Nearest Neighbors](https://github.com/jason2133/deep_learning/tree/master/Assignment%202/v3)|
+
+
+## Reference
+- [CS231n 중간고사 한국어 풀이](https://shinest-programming.tistory.com/24)
+- [CS231n 중간고사 GitHub](https://github.com/Shinest-changwon/cs231n/tree/master/midterm)
+- [CS231n 2020 Midterm Review](http://cs231n.stanford.edu/slides/2020/section_5_midterm.pdf)
+- [CS231n 2018 Midterm Review](http://cs231n.stanford.edu/slides/2018/cs231n_2018_midterm_review.pdf)
