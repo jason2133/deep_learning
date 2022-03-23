@@ -13,6 +13,12 @@
 |4|Support Vector Classifier|
 |5|Linear Classifier & Loss Function|
 
+## 참고 자료
+- [CS231n 중간고사 한국어 풀이](https://shinest-programming.tistory.com/24)
+- [CS231n 중간고사 GitHub](https://github.com/Shinest-changwon/cs231n/tree/master/midterm)
+- [CS231n 2020 Midterm Review](http://cs231n.stanford.edu/slides/2020/section_5_midterm.pdf)
+- [CS231n 2018 Midterm Review](http://cs231n.stanford.edu/slides/2018/cs231n_2018_midterm_review.pdf)
+
 <!-- ## Schedule (at Syllabus)
 |Lecture|Contents|
 |:------:|:-----:|
