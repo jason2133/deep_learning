@@ -1,0 +1,167 @@
+EECS 498-007 / 598-005
+Deep Learning for Computer Vision
+Fall 2019
+
+University of Michigan
+
+http://web.eecs.umich.edu/~justincj/teaching/eecs498/
+
+http://web.eecs.umich.edu/~justincj/teaching/eecs498/schedule.html
+
+- video - http://leccap.engin.umich.edu/leccap/site/jhygcph151x25gjj1f0 
+
+
+
+**********          pytorch:           **********
+
+https://pytorch.org/tutorials/beginner/pytorch_with_examples.html
+https://pytorch.org/tutorials/beginner/examples_nn/dynamic_net.html#sphx-glr-beginner-examples-nn-dynamic-net-py
+
+
+!!!!!  http://neuralnetworksanddeeplearning.com/chap2.html - backpropagation for FC neural networks
+
+
+resilient backpropagation algorithm
+
+'Improving the Rprop Learning Algorithm'
+
+http://neuralnetworksanddeeplearning.com/chap2.html - backprop explained
+
+github:
+
+!!!!!
+
+git push --all
+
+!!!!!
+
+https://readwrite.com/2013/09/30/understanding-github-a-journey-for-beginners-part-1/
+
+https://readwrite.com/2013/10/02/github-for-beginners-part-2/
+
+
+https://www.deeplearningbook.org/contents/convnets.html p. 352
+p. 350 - backprop in CNN's
+
+
+**********          RNN's          **********
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+https://gist.github.com/karpathy/d4dee566867f8291f086
+
+pytorch RNN:
+
+https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+https://pytorch.org/tutorials/intermediate/char_rnn_classification_tutorial.html
+https://pytorch.org/tutorials/intermediate/char_rnn_generation_tutorial.html
+
+https://medium.com/dair-ai/building-rnns-is-fun-with-pytorch-and-google-colab-3903ea9a3a79
+
+
+LSTM: 
+
+https://pytorch.org/tutorials/beginner/nlp/sequence_models_tutorial.html
+
+https://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+
+**********          RNN's with attention           **********
+
+http://www.peterbloem.nl/blog/transformers
+http://jalammar.github.io/illustrated-transformer/
+https://pytorch.org/tutorials/intermediate/seq2seq_translation_tutorial.html
+
+********** Adversarial attacks          **********
+
+Goodfellow, ... 2014 Explaining and harnessing adversarial examples. 
+arXiv perprint arXiv:1412.6572
+
+adversarial-ml-tutorial.org
+
+Carlini and Wagner: 
+Towards Evaluating the Robustness of neural networks.
+
+
+Kurakin et al. Adversarial examples in the physical world.
+**********                               **********
+
+
+**********          reinforcement learning          **********
+      
+
+If you're interested in reinforcement learning for your final project, this is a good (more advanced) DQN tutorial in PyTorch: 
+
+http://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+
+- fine grained image recognition
+- hard attention
+
+Lecture:
+
+https://www.youtube.com/watch?v=lvoHnicueoE&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=15&t=0s
+
+**********                                           **********
+
+
+**********          image preprocessing in pytorch:          **********
+
+https://pytorch.org/hub/pytorch_vision_mobilenet_v2/
+
+***********
+
+!!!!!!!!!!          Semantic Segmentation of image
+
+https://www.mathworks.com/videos/semantic-segmentation-overview-1510858047780.html
+
+***********
+
+**********
+
+image segmentation libraries
+https://www.learnopencv.com/image-segmentation/
+
+**********
+
+
+**********
+
+Depth Map from Stereo Images
+
+https://docs.opencv.org/master/dd/d53/tutorial_py_depthmap.html
+
+**********
+
+**********          OpenAI:          **********
+
+https://openai.com/
+https://spinningup.openai.com/en/latest/
+https://openai.com/blog/
+https://openai.com/blog/spinning-up-in-deep-rl/
+https://spinningup.openai.com/en/latest/spinningup/rl_intro.html
+
+
+**********        possible coursework:        **********
+
+reinforcement learning semantic segmentation
+
+https://www.google.com/search?newwindow=1&ei=-YhsXseYL8-i6QTOlIPYBw&q=reinforcement+learning+semantic+segmentation&oq=reinforcement+learning+semantic+segmentation&gs_l=psy-ab.3..0i19j0i22i30i19.118029.118029..118334...0.2..0.124.124.0j1......0....1..gws-wiz.......0i71.ZjliNgGTrvA&ved=0ahUKEwiH-dTouZnoAhVPUZoKHU7KAHsQ4dUDCAs&uact=5
+
+https://arxiv.org/abs/1804.04603
+
+https://arxiv.org/pdf/1804.04603.pdf
+
+
+Ideas for couserwork:
+
+https://www.groundai.com/project/stroke-based-character-recognition-with-deep-reinforcement-learning/1
+
+http://cs229.stanford.edu/proj2017/final-reports/5241109.pdf
+
+reinforcement learning pacman
+
+
+************            Recurrent attention models            ************
+
+https://github.com/kevinzakka/recurrent-visual-attention 
+and so on...
+
