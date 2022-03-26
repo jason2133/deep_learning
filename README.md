@@ -9,8 +9,11 @@
 |0|Syllabus|
 |1|Linear Regression|
 |2|Beyond the Linear Model & Regularization|
+|3|Introduction to Classification|
+|4|Support Vector Classifier|
+|5|Linear Classifier & Loss Function|
 
-## Schedule (at Syllabus)
+<!-- ## Schedule (at Syllabus)
 |Lecture|Contents|
 |:------:|:-----:|
 |0|Syllabus|
@@ -29,10 +32,18 @@
 |13|Generative Models|
 |14|Topic Class|
 |15|Project Presentation|
-|16|Term Project Report|
+|16|Term Project Report| -->
 
 ## Assignment
 |Assignment|Contents|
 |:------:|:-----:|
 |1|[PyTorch 101](https://github.com/jason2133/deep_learning/tree/master/Assignment%201/final%20version)|
 |2|[K-Nearest Neighbors](https://github.com/jason2133/deep_learning/tree/master/Assignment%202/v3)|
+
+
+## Reference
+- [Stanford CS231n 중간고사 한국어 풀이 (2017)](https://shinest-programming.tistory.com/24)
+- [Stanford CS231n 중간고사 GitHub (2017)](https://github.com/Shinest-changwon/cs231n/tree/master/midterm)
+- [Stanford CS231n 2020 Midterm Review (2020)](http://cs231n.stanford.edu/slides/2020/section_5_midterm.pdf)
+- [Stanford CS231n 2018 Midterm Review (2018)](http://cs231n.stanford.edu/slides/2018/cs231n_2018_midterm_review.pdf)
+- [EECS 498-007 / 598-005 Deep Learning for Computer Vision - Fall 2020](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
