@@ -12,6 +12,8 @@
 |3|Introduction to Classification|
 |4|Support Vector Classifier|
 |5|Linear Classifier & Loss Function|
+|6|Optimization Part 1|
+|7|Optimization Part 2|
 
 <!-- ## Schedule (at Syllabus)
 |Lecture|Contents|
