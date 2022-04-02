@@ -12,6 +12,8 @@
 |3|Introduction to Classification|
 |4|Support Vector Classifier|
 |5|Linear Classifier & Loss Function|
+|6|Optimization Part 1|
+|7|Optimization Part 2|
 
 <!-- ## Schedule (at Syllabus)
 |Lecture|Contents|
@@ -39,7 +41,7 @@
 |:------:|:-----:|
 |1|[PyTorch 101](https://github.com/jason2133/deep_learning/tree/master/Assignment%201/final%20version)|
 |2|[K-Nearest Neighbors](https://github.com/jason2133/deep_learning/tree/master/Assignment%202/v3)|
-
+|3|Linear Classifier|
 
 ## Reference
 - [Stanford CS231n 중간고사 한국어 풀이 (2017)](https://shinest-programming.tistory.com/24)
