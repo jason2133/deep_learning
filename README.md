@@ -14,6 +14,7 @@
 |5|Linear Classifier & Loss Function|
 |6|Optimization Part 1|
 |7|Optimization Part 2|
+|8|Neural Networks|
 
 <!-- ## Schedule (at Syllabus)
 |Lecture|Contents|
