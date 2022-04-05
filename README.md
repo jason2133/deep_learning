@@ -69,13 +69,13 @@
 3. Michigan 딥러닝 시험문제 있는지 검토
 
 4. [Coursera] Andrew Ng 교수님 유명 강좌들 퀴즈 문항 다 찾기  
-4-1. [Coursera Deep Learning Specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)
-4-1-1. C1 - Neural Networks and Deep Learning
-4-1-2. C2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
-4-1-3. C3 - Structuring Machine Learning Projects
-4-1-4. C4 - Convolutional Neural Networks
-4-1-5. C5 - Sequence Models
-
+4-1. [Coursera Deep Learning Specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)  
+4-1-1. C1 - Neural Networks and Deep Learning  
+4-1-2. C2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization  
+4-1-3. C3 - Structuring Machine Learning Projects  
+4-1-4. C4 - Convolutional Neural Networks  
+4-1-5. C5 - Sequence Models  
+  
 4-2. [Coursera Deep Learning](https://github.com/Kulbear/deep-learning-coursera)
 
 5. 김승룡 교수님 중간고사 해설
