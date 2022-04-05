@@ -63,5 +63,7 @@
 - https://github.com/Kulbear/deep-learning-coursera
 - [Coursera Deep Learning Specialization 이거 퀴즈 문항들 답안 다 있음.](https://github.com/amanchadha/coursera-deep-learning-specialization)
 
-7. 딥러닝 유명강좌들 중간고사 문항 찾기
+6. 김승룡 교수님 중간고사 해설
+- [Lecture7 1 COSE474 SeungryongKim](https://www.youtube.com/watch?v=8buOdBPLOHI)
 
+7. 
