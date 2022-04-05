@@ -52,3 +52,16 @@
 - [U of Michigan : EECS 498-007 / 598-005 Deep Learning for Computer Vision - Fall 2020](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
 - [숙명여대 통계적기계학습 강좌 Official Site (2020)](https://sites.google.com/view/statml-smwu-2020s)
 - [숙명여대 통계적기계학습 강좌 OneNote (2020)](https://onedrive.live.com/redir?resid=717308D9A7793AB4%21275&authkey=%21AB2MNiv0wdJvb7w&page=View&wd=target%28lecture%20slides%20%2B%20notes.one%7Ccadc3cc8-b629-4656-b142-6109d3cfd72d%2FLec02%20Image%20Classification%7C6fc4fc78-51ce-f14e-8652-a00e526f2a75%2F%29)
+
+## 중간고사 대비
+1. Stanford CS231n 중간고사 문제 다 찾고 풀이 다 찾기 (난 18년도만 찾음)
+2. 숙명여대 저 서술형 문항들 답 미리 다 정리
+3. Michigan 딥러닝 시험문제 있는지 검토
+4. 코딩...? 레퍼런스 삼을만한데가 있는지 찾아보기
+5. [Coursera] Andrew Ng 교수님 유명 강좌들 퀴즈 문항 다 찾기
+5-1. Convolutional Neural Network
+- https://github.com/Kulbear/deep-learning-coursera
+- [Coursera Deep Learning Specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)
+
+7. 딥러닝 유명강좌들 중간고사 문항 찾기
+
