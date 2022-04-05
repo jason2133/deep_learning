@@ -15,6 +15,7 @@
 |6|Optimization Part 1|
 |7|Optimization Part 2|
 |8|Neural Networks|
+|9|Backpropagation|
 
 <!-- ## Schedule (at Syllabus)
 |Lecture|Contents|
@@ -57,16 +58,30 @@
 - [Optimization ](https://velog.io/@opcho/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-computer-vision-3#adam-almost-rmsprop--momentum)
 
 ## 중간고사 대비
-1. Stanford CS231n 중간고사 문제 다 찾고 풀이 다 찾기 (난 18년도만 찾음)
-2. 숙명여대 저 서술형 문항들 답 미리 다 정리
-3. Michigan 딥러닝 시험문제 있는지 검토
-4. 코딩...? 레퍼런스 삼을만한데가 있는지 찾아보기
-5. [Coursera] Andrew Ng 교수님 유명 강좌들 퀴즈 문항 다 찾기  
-5-1. Convolutional Neural Network
-- https://github.com/Kulbear/deep-learning-coursera
-- [Coursera Deep Learning Specialization 이거 퀴즈 문항들 답안 다 있음.](https://github.com/amanchadha/coursera-deep-learning-specialization)
+### 그냥 문제
+1. Stanford CS231n 중간고사 문제 다 찾고 풀이 다 찾기 (난 17년도만 찾음)
+- [Stanford CS231n 중간고사 한국어 풀이 (2017)](https://shinest-programming.tistory.com/24)
+- [Stanford CS231n 2020 Midterm Review (2020)](http://cs231n.stanford.edu/slides/2020/section_5_midterm.pdf)
 
-6. 김승룡 교수님 중간고사 해설
+2. 숙명여대 저 서술형 문항들 답 미리 다 정리
+- [Linear Classifiers, Optimization, Neural Network, Backpropagation](https://onedrive.live.com/redir?resid=717308D9A7793AB4%21275&authkey=%21AB2MNiv0wdJvb7w&page=View&wd=target%28self%20check.one%7C25739cf5-ce5e-4e46-9480-255491cfb949%2Flec3%20-%20linear%20classifiers%7Cea49938b-a2f1-8e4d-a74a-72ed8c6c4d0a%2F%29)
+
+3. Michigan 딥러닝 시험문제 있는지 검토
+
+4. [Coursera] Andrew Ng 교수님 유명 강좌들 퀴즈 문항 다 찾기  
+4-1. [Coursera Deep Learning Specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)
+4-1-1. C1 - Neural Networks and Deep Learning
+4-1-2. C2 - Improving Deep Neural Networks Hyperparameter tuning, Regularization and Optimization
+4-1-3. C3 - Structuring Machine Learning Projects
+4-1-4. C4 - Convolutional Neural Networks
+4-1-5. C5 - Sequence Models
+
+4-2. [Coursera Deep Learning](https://github.com/Kulbear/deep-learning-coursera)
+
+5. 김승룡 교수님 중간고사 해설
 - [Lecture7 1 COSE474 SeungryongKim](https://www.youtube.com/watch?v=8buOdBPLOHI)
 
-7. 
+### 코딩
+1. 코딩 문제를 어디거를 봐야 할까요.
+
+
