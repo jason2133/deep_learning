@@ -53,6 +53,9 @@
 - [숙명여대 통계적기계학습 강좌 Official Site (2020)](https://sites.google.com/view/statml-smwu-2020s)
 - [숙명여대 통계적기계학습 강좌 OneNote (2020)](https://onedrive.live.com/redir?resid=717308D9A7793AB4%21275&authkey=%21AB2MNiv0wdJvb7w&page=View&wd=target%28lecture%20slides%20%2B%20notes.one%7Ccadc3cc8-b629-4656-b142-6109d3cfd72d%2FLec02%20Image%20Classification%7C6fc4fc78-51ce-f14e-8652-a00e526f2a75%2F%29)
 
+## 강의 내용 잘 정리
+- [Optimization ](https://velog.io/@opcho/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-computer-vision-3#adam-almost-rmsprop--momentum)
+
 ## 중간고사 대비
 1. Stanford CS231n 중간고사 문제 다 찾고 풀이 다 찾기 (난 18년도만 찾음)
 2. 숙명여대 저 서술형 문항들 답 미리 다 정리
