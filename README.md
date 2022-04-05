@@ -58,10 +58,10 @@
 2. 숙명여대 저 서술형 문항들 답 미리 다 정리
 3. Michigan 딥러닝 시험문제 있는지 검토
 4. 코딩...? 레퍼런스 삼을만한데가 있는지 찾아보기
-5. [Coursera] Andrew Ng 교수님 유명 강좌들 퀴즈 문항 다 찾기
+5. [Coursera] Andrew Ng 교수님 유명 강좌들 퀴즈 문항 다 찾기  
 5-1. Convolutional Neural Network
 - https://github.com/Kulbear/deep-learning-coursera
-- [Coursera Deep Learning Specialization](https://github.com/amanchadha/coursera-deep-learning-specialization)
+- [Coursera Deep Learning Specialization 이거 퀴즈 문항들 답안 다 있음.](https://github.com/amanchadha/coursera-deep-learning-specialization)
 
 7. 딥러닝 유명강좌들 중간고사 문항 찾기
 
