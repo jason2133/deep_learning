@@ -16,6 +16,7 @@
 |7|Optimization Part 2|
 |8|Neural Networks|
 |9|Backpropagation|
+|**Final Project**|**AI Situation Recognition for Autonomous Drone**</br>Used YOLOv3, YOLOv4 for Object Detection</br>Used U-Net, SegNet for Semantic Segmentation|
 
 <!-- ## Schedule (at Syllabus)
 |Lecture|Contents|
@@ -50,10 +51,17 @@
 - [Stanford CS231n 중간고사 GitHub (2017)](https://github.com/Shinest-changwon/cs231n/tree/master/midterm)
 - [Stanford CS231n 2020 Midterm Review (2020)](http://cs231n.stanford.edu/slides/2020/section_5_midterm.pdf)
 - [Stanford CS231n 2018 Midterm Review (2018)](http://cs231n.stanford.edu/slides/2018/cs231n_2018_midterm_review.pdf)
-- [U of Michigan : EECS 498-007 / 598-005 Deep Learning for Computer Vision - Fall 2020](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
+- [University of Michigan : EECS 498-007 / 598-005 Deep Learning for Computer Vision - Fall 2020](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
 - [숙명여대 통계적기계학습 강좌 Official Site (2020)](https://sites.google.com/view/statml-smwu-2020s)
 - [숙명여대 통계적기계학습 강좌 OneNote (2020)](https://onedrive.live.com/redir?resid=717308D9A7793AB4%21275&authkey=%21AB2MNiv0wdJvb7w&page=View&wd=target%28lecture%20slides%20%2B%20notes.one%7Ccadc3cc8-b629-4656-b142-6109d3cfd72d%2FLec02%20Image%20Classification%7C6fc4fc78-51ce-f14e-8652-a00e526f2a75%2F%29)
 
+## Coding Reference
+- [EECS-498-007 / 598-005 Deep Learning for Computer Vision (1)](https://github.com/subinium/DL4CV-Code)
+- [EECS-498-007 / 598-005 Deep Learning for Computer Vision (2)](https://github.com/linxiaow/EECS498-Deep-Learning-for-Vision)
+- [EECS-498-007 / 598-005 Deep Learning for Computer Vision (3)](https://github.com/iMeleon/EECS-498-007-598-005-solutions)
+- [EECS-498-007 / 598-005 Deep Learning for Computer Vision (4)](https://github.com/AndreiKeino/EECS-498-007-598-005-Deep-Learning-for-Computer-Vision)
+- [Deep Learning Computer Vision](https://github.com/jasonbian97/Deep-Learning-Computer-Vision)
+ 
 ## 강의 내용 잘 정리
 - [Optimization ](https://velog.io/@opcho/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-computer-vision-3#adam-almost-rmsprop--momentum)
 
