@@ -16,6 +16,9 @@
 |7|Optimization Part 2|
 |8|Neural Networks|
 |9|Backpropagation|
+|10|CNN - Convolutional Neural Networks|
+|11|CNN Architectures|
+|12|Python & PyTorch|
 |**Final Project**|**AI Situation Recognition for Autonomous Drone**</br>Used YOLOv3, YOLOv4 for Object Detection</br>Used U-Net, SegNet for Semantic Segmentation|
 
 <!-- ## Schedule (at Syllabus)
