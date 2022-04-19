@@ -16,6 +16,9 @@
 |7|Optimization Part 2|
 |8|Neural Networks|
 |9|Backpropagation|
+|10|CNN - Convolutional Neural Networks|
+|11|CNN Architectures|
+|12|Python & PyTorch|
 |**Final Project**|**AI Situation Recognition for Autonomous Drone**</br>Used YOLOv3, YOLOv4 for Object Detection</br>Used U-Net, SegNet for Semantic Segmentation|
 
 <!-- ## Schedule (at Syllabus)
@@ -45,6 +48,7 @@
 |1|[PyTorch 101](https://github.com/jason2133/deep_learning/tree/master/Assignment%201/final%20version)|
 |2|[K-Nearest Neighbors](https://github.com/jason2133/deep_learning/tree/master/Assignment%202/submit)|
 |3|[Linear Classifier](https://github.com/jason2133/deep_learning/tree/master/Assignment%203/v2)|
+|4|Two Layer Net|
 
 ## Reference
 - [Stanford CS231n 중간고사 한국어 풀이 (2017)](https://shinest-programming.tistory.com/24)
