@@ -19,8 +19,9 @@
 |10|CNN - Convolutional Neural Networks|
 |11|CNN Architectures|
 |12|Python & PyTorch|
-|**Final Project**|**AI Situation Recognition for Autonomous Drone**</br>Used YOLOv3, YOLOv4 for Object Detection</br>Used U-Net, SegNet for Semantic Segmentation|
-
+|13|Training Neural Networks Part 1|
+<!-- |**Final Project**|**AI Situation Recognition for Autonomous Drone**</br>Used YOLOv3, YOLOv4 for Object Detection</br>Used U-Net, SegNet for Semantic Segmentation|
+ -->
 <!-- ## Schedule (at Syllabus)
 |Lecture|Contents|
 |:------:|:-----:|
@@ -65,6 +66,7 @@
 - [EECS-498-007 / 598-005 Deep Learning for Computer Vision (3)](https://github.com/iMeleon/EECS-498-007-598-005-solutions)
 - [EECS-498-007 / 598-005 Deep Learning for Computer Vision (4)](https://github.com/AndreiKeino/EECS-498-007-598-005-Deep-Learning-for-Computer-Vision)
 - [Deep Learning Computer Vision](https://github.com/jasonbian97/Deep-Learning-Computer-Vision)
+- [티스토리 한국어 코드 설명](https://kmiiiaa.tistory.com/22)
  
 ## 강의 내용 잘 정리
 - [Optimization ](https://velog.io/@opcho/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-computer-vision-3#adam-almost-rmsprop--momentum)
