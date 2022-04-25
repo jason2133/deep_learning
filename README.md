@@ -20,6 +20,9 @@
 |11|CNN Architectures|
 |12|Python & PyTorch|
 |13|Training Neural Networks Part 1|
+|14|Learning Rate & Stopping Rule|
+|15|Hyperparameter Optimization|
+|16|Model Ensemble & Transfer Learning|
 <!-- |**Final Project**|**AI Situation Recognition for Autonomous Drone**</br>Used YOLOv3, YOLOv4 for Object Detection</br>Used U-Net, SegNet for Semantic Segmentation|
  -->
 <!-- ## Schedule (at Syllabus)
