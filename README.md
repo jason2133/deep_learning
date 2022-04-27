@@ -20,6 +20,9 @@
 |11|CNN Architectures|
 |12|Python & PyTorch|
 |13|Training Neural Networks Part 1|
+|14|Learning Rate & Stopping Rule|
+|15|Hyperparameter Optimization|
+|16|Model Ensemble & Transfer Learning|
 <!-- |**Final Project**|**AI Situation Recognition for Autonomous Drone**</br>Used YOLOv3, YOLOv4 for Object Detection</br>Used U-Net, SegNet for Semantic Segmentation|
  -->
 <!-- ## Schedule (at Syllabus)
@@ -49,7 +52,7 @@
 |1|[PyTorch 101](https://github.com/jason2133/deep_learning/tree/master/Assignment%201/final%20version)|
 |2|[K-Nearest Neighbors](https://github.com/jason2133/deep_learning/tree/master/Assignment%202/submit)|
 |3|[Linear Classifier](https://github.com/jason2133/deep_learning/tree/master/Assignment%203/v2)|
-|4|Two Layer Net|
+|4|[Two Layer Net](https://github.com/jason2133/deep_learning/tree/master/Assignment%204/v1)|
 
 ## Reference
 - [Stanford CS231n 중간고사 한국어 풀이 (2017)](https://shinest-programming.tistory.com/24)
