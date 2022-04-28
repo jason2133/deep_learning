@@ -55,6 +55,8 @@
 |4|[Two Layer Net](https://github.com/jason2133/deep_learning/tree/master/Assignment%204/v1)|
 
 ## Reference
+- [Stanford CS230: Deep Learning Midterm 풀이 (2020)](https://cs230.stanford.edu/files/cs230exam_fall20_soln.pdf)
+- [Stanford CS230: Deep Learning Midterm 풀이 (2019)](https://cs230.stanford.edu/files/cs230exam_win19_soln.pdf)
 - [Stanford CS231n 중간고사 한국어 풀이 (2017)](https://shinest-programming.tistory.com/24)
 - [Stanford CS231n 중간고사 GitHub (2017)](https://github.com/Shinest-changwon/cs231n/tree/master/midterm)
 - [Stanford CS231n 2020 Midterm Review (2020)](http://cs231n.stanford.edu/slides/2020/section_5_midterm.pdf)
