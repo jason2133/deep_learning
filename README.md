@@ -71,7 +71,7 @@
 - [Deep Learning Computer Vision](https://github.com/jasonbian97/Deep-Learning-Computer-Vision)
 - [티스토리 한국어 코드 설명](https://kmiiiaa.tistory.com/22)
  
-## 강의 내용 잘 정리
+<!-- ## 강의 내용 잘 정리
 - [Optimization ](https://velog.io/@opcho/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-computer-vision-3#adam-almost-rmsprop--momentum)
 
 ## 중간고사 대비
@@ -99,6 +99,6 @@
 - [Lecture7 1 COSE474 SeungryongKim](https://www.youtube.com/watch?v=8buOdBPLOHI)
 
 ### 코딩
-1. 코딩 문제를 어디거를 봐야 할까요.
+1. 코딩 문제를 어디거를 봐야 할까요. -->
 
 
