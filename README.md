@@ -55,6 +55,8 @@
 |4|[Two Layer Net](https://github.com/jason2133/deep_learning/tree/master/Assignment%204/v1)|
 
 ## Reference
+- [Stanford CS230: Deep Learning Midterm 풀이 (2020)](https://cs230.stanford.edu/files/cs230exam_fall20_soln.pdf)
+- [Stanford CS230: Deep Learning Midterm 풀이 (2019)](https://cs230.stanford.edu/files/cs230exam_win19_soln.pdf)
 - [Stanford CS231n 중간고사 한국어 풀이 (2017)](https://shinest-programming.tistory.com/24)
 - [Stanford CS231n 중간고사 GitHub (2017)](https://github.com/Shinest-changwon/cs231n/tree/master/midterm)
 - [Stanford CS231n 2020 Midterm Review (2020)](http://cs231n.stanford.edu/slides/2020/section_5_midterm.pdf)
@@ -71,7 +73,7 @@
 - [Deep Learning Computer Vision](https://github.com/jasonbian97/Deep-Learning-Computer-Vision)
 - [티스토리 한국어 코드 설명](https://kmiiiaa.tistory.com/22)
  
-## 강의 내용 잘 정리
+<!-- ## 강의 내용 잘 정리
 - [Optimization ](https://velog.io/@opcho/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-computer-vision-3#adam-almost-rmsprop--momentum)
 
 ## 중간고사 대비
@@ -99,6 +101,6 @@
 - [Lecture7 1 COSE474 SeungryongKim](https://www.youtube.com/watch?v=8buOdBPLOHI)
 
 ### 코딩
-1. 코딩 문제를 어디거를 봐야 할까요.
+1. 코딩 문제를 어디거를 봐야 할까요. -->
 
 
