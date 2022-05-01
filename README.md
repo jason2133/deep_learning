@@ -23,6 +23,11 @@
 |14|Learning Rate & Stopping Rule|
 |15|Hyperparameter Optimization|
 |16|Model Ensemble & Transfer Learning|
+|17|PyTorch NN Module API & ResNet example|
+|18|Recurrent Neural Network & LSTM|
+|19-1|(Simple) Natural Language Processing with RNN LSTM|
+|19-2|Natural Language Processing with RNN LSTM (ipynb)|
+
 <!-- |**Final Project**|**AI Situation Recognition for Autonomous Drone**</br>Used YOLOv3, YOLOv4 for Object Detection</br>Used U-Net, SegNet for Semantic Segmentation|
  -->
 <!-- ## Schedule (at Syllabus)
