@@ -27,6 +27,7 @@
 |18|Recurrent Neural Network & LSTM|
 |19-1|(Simple) Natural Language Processing with RNN LSTM|
 |19-2|Natural Language Processing with RNN LSTM (ipynb)|
+|Final Project|The project is **private** in this Git repo.|
 
 <!-- |**Final Project**|**AI Situation Recognition for Autonomous Drone**</br>Used YOLOv3, YOLOv4 for Object Detection</br>Used U-Net, SegNet for Semantic Segmentation|
  -->
