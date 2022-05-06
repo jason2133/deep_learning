@@ -109,12 +109,50 @@
 ### 코딩
 1. 코딩 문제를 어디거를 봐야 할까요. -->
 
-## Project
+<!-- ## Project
+- Theme : AI Situation Recognition for Autonomous Drone based on Event Camera - Focusing on comparison with RGB Camera
+
 ### Presentation
-1. Description of the data and the questions/objectives that you are interested in answering
-2. Review of some of the approaches that you tried or thought about trying
+1. Description of the data and the questions/objectives that you are interested in answering  
+1-1. Description of the data  
+
+1-1-1. [VisDrone Dataset](http://aiskyeye.com/)  
+- Object Detection을 위한 라벨링이 되어 있으며, Train / Val / Test 모두 잘 나누어져 있는 데이터셋.  
+
+1-1-2. 직접 드론 날려서 수집한 데이터셋  
+- 세종대 등 서울 광진구 일대
+
+1-2. the questions/objectives that you are interested in answering  
+
+1-2-1. [RGB Camera] 모델의 Speed와 Accuracy 사이의 Trade-Off
+- NVIDIA Jetson Nano 등 소형 센서에는 Weight가 낮아야 함 → Weight가 낮으면 Speed가 빠른 대신 Accuracy가 낮음.
+- Weight가 높으면 Speed가 낮은 대신 Accuracy가 높음.  
+- 모델의 Weight를 적절히 낮추면서도 Speed와 Accuracy를 모두 잘 가져갈 수 있도록 모델 최적화 Optimization 시도.
+- 드론은 혼자서 주행할 때 에너지 소모를 하드웨어적인 역량에 주로 포커스를 두어야 하고, AI 등 SW의 작동에는 에너지 소모를 줄여야 한다는 점을 고려.  
+
+1-2-2. [이벤트 카메라] 일반 Vision Sensor와 Output이 다른 이벤트 카메라의 Output에 맞춘 AI Object Detection 모델 구축
+- 이벤트 카메라는 일반 Vision Sensor와 Output이 다르다.
+- 이 다른 Output에 알맞은 AI Object Detection 모델을 구축하고자 한다.
+- 동시에 AE-GNN 등을 활용해서 최적화를 시도해보도록 합시다.  
+
+2. Review of some of the approaches that you tried or thought about trying  
+2-1. Object Detection에 있어 YOLO를 채택  
+- 경험상 2-stage object detector보다 1-stage object detector가 더 나음.
+- 특히, 드론은 Speed를 생각해야 하기 때문에 구조가 비교적 간단한 1-stage object detector인 YOLO를 채택
+- YOLO 중에서도 YOLOv4가 코드도 있고 괜찮다는 판단에 YOLOv4를 채택.  
+
+2-2. 수도 레이블링 (pseudo labeling) 채택
+- Bounding Box를 많이 만들어내고, 이를 학습 → 학습된 모델이 나타내는 Output을 다시 학습 → 이 과정을 계속 거침으로써 궁극적으로 모델의 성능을 높이는 것.  
+
+2-3. AE-GNN : Graph Neural Network를 활용한 컴퓨팅 연산량 감소
+- CVPR 2022에 채택된 AE-GNN을 활용하여 컴퓨팅 연산량을 줄인다.
+- [Project Page](https://uzh-rpg.github.io/aegnn/)
+- [Code](https://github.com/uzh-rpg/aegnn/)
+
 3. Summary of the final approach you used and why you chose that approach
+
 4. Summary of the results
+
 5. Conclusions
 
 ### Project Report
@@ -145,7 +183,7 @@ the methods.
 - In the case where there are too many tables and plots, you can place them to the appendix section to make your report easy to read.
 
 8. Codes
-- Your codes and the data (link is fine) should work.
+- Your codes and the data (link is fine) should work. -->
 
 
 
