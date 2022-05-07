@@ -110,8 +110,6 @@
 1. 코딩 문제를 어디거를 봐야 할까요. -->
 
 ## Project
-- Theme : AI Situation Recognition for Autonomous Drone based on Event Camera - Focusing on comparison with RGB Camera
-
 ### Presentation
 1. Description of the data and the questions/objectives that you are interested in answering  
 2. Review of some of the approaches that you tried or thought about trying  
