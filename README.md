@@ -23,6 +23,12 @@
 |14|Learning Rate & Stopping Rule|
 |15|Hyperparameter Optimization|
 |16|Model Ensemble & Transfer Learning|
+|17|PyTorch NN Module API & ResNet example|
+|18|Recurrent Neural Network & LSTM|
+|19-1|(Simple) Natural Language Processing with RNN LSTM|
+|19-2|Natural Language Processing with RNN LSTM (ipynb)|
+|Final Project|The project is **private** in this Git repo.|
+
 <!-- |**Final Project**|**AI Situation Recognition for Autonomous Drone**</br>Used YOLOv3, YOLOv4 for Object Detection</br>Used U-Net, SegNet for Semantic Segmentation|
  -->
 <!-- ## Schedule (at Syllabus)
@@ -102,5 +108,44 @@
 
 ### 코딩
 1. 코딩 문제를 어디거를 봐야 할까요. -->
+
+## Project
+### Presentation
+1. Description of the data and the questions/objectives that you are interested in answering  
+2. Review of some of the approaches that you tried or thought about trying  
+3. Summary of the final approach you used and why you chose that approach
+4. Summary of the results  
+5. Conclusions
+
+### Project Report
+1. Introduction
+- This includes the main problem, outline, and the organization of the rest of the report.
+You should make it very concise and clear to someone who does not know any of specic
+terminologies used in your field.
+
+2. Explanation of Data
+- You should describe the data in detail with the source of it. You might illustrate the EDA
+before conducting your analysis of the dataset. It should be a brief description. Do not show
+all the data in the report.
+
+3. Methods You should include your own justication why you choose the methods and explain
+the methods. 
+- If you use an R package, explain the package in the report.
+
+4. Analysis/Results
+- Present and explain your results with analysis.
+
+5. Conclusion
+- Conclusion of the report. It might also include possible extension or discussion.
+
+6. References
+- You do not use a sentence from a web or a paper without any citation. List all the sources you used in this reference section.
+
+7. Appendix
+- In the case where there are too many tables and plots, you can place them to the appendix section to make your report easy to read.
+
+8. Codes
+- Your codes and the data (link is fine) should work.
+
 
 
