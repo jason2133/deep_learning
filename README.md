@@ -62,7 +62,7 @@
 |3|[Linear Classifier](https://github.com/jason2133/deep_learning/tree/master/Assignment%203/v2)|
 |4|[Two Layer Net](https://github.com/jason2133/deep_learning/tree/master/Assignment%204/v1)|
 
-## Reference
+<!-- ## Reference
 - [Stanford CS230: Deep Learning Midterm 풀이 (2020)](https://cs230.stanford.edu/files/cs230exam_fall20_soln.pdf)
 - [Stanford CS230: Deep Learning Midterm 풀이 (2019)](https://cs230.stanford.edu/files/cs230exam_win19_soln.pdf)
 - [Stanford CS231n 중간고사 한국어 풀이 (2017)](https://shinest-programming.tistory.com/24)
@@ -79,7 +79,7 @@
 - [EECS-498-007 / 598-005 Deep Learning for Computer Vision (3)](https://github.com/iMeleon/EECS-498-007-598-005-solutions)
 - [EECS-498-007 / 598-005 Deep Learning for Computer Vision (4)](https://github.com/AndreiKeino/EECS-498-007-598-005-Deep-Learning-for-Computer-Vision)
 - [Deep Learning Computer Vision](https://github.com/jasonbian97/Deep-Learning-Computer-Vision)
-- [티스토리 한국어 코드 설명](https://kmiiiaa.tistory.com/22)
+- [티스토리 한국어 코드 설명](https://kmiiiaa.tistory.com/22) -->
  
 <!-- ## 강의 내용 잘 정리
 - [Optimization ](https://velog.io/@opcho/%ED%95%9C-%EB%AC%B8%EC%9E%A5%EC%9C%BC%EB%A1%9C-%EC%A0%95%EB%A6%AC%ED%95%98%EB%8A%94-computer-vision-3#adam-almost-rmsprop--momentum)
